@@ -1,0 +1,1 @@
+{"inputTextTokenCount":10,"results":[{"tokenCount":30,"outputText":"\nHere is a short, positive, motivational quote:\n\n\"I am strong, I am beautiful, I am powerful, I am worthy.\"","completionReason":"LENGTH"}]}
