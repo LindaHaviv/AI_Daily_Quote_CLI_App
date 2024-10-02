@@ -63,4 +63,3 @@ echo -e "$quote ✨"
 
 # Show snowflake animation below the quote
 snowflake_animation
-
